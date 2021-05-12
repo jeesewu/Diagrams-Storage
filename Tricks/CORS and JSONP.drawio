@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T14:33:36.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="P8mku5uJXH7jPwk_89M2" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T14:37:23.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ySEqOuza2DsjJb2CYoA7" version="14.6.11" type="github">
   <diagram id="IwOv3YlZUVAsn_aweAkh" name="Request &amp; Response">
     <mxGraphModel dx="798" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         </mxCell>
         <mxCell id="Hkld1g8VxO6-5qJbLP5S-20" value="response CSS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Hkld1g8VxO6-5qJbLP5S-16">
           <mxGeometry x="0.3386" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hkld1g8VxO6-5qJbLP5S-12" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;labelBackgroundColor=#ffffff;fontColor=#000000;" vertex="1" parent="1">
@@ -104,7 +104,19 @@
           <mxGeometry x="260" y="510" width="84.51" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hkld1g8VxO6-5qJbLP5S-36" value="Request &amp;amp; Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#000000;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="130" width="220" height="30" as="geometry" />
+          <mxGeometry x="300" y="120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hkld1g8VxO6-5qJbLP5S-37" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Server 1&lt;/b&gt;&lt;br&gt;https://www.example.com&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="215" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hkld1g8VxO6-5qJbLP5S-40" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Server 2&lt;/b&gt;&lt;br&gt;https://semantic-ui.com&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="345" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hkld1g8VxO6-5qJbLP5S-41" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Server 3&lt;/b&gt;&lt;br&gt;https://jquery.com&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="465" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hkld1g8VxO6-5qJbLP5S-42" value="Browser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
