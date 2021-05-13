@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T15:40:08.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="aAu4fRr6u_dSW3L-kgkL" version="14.6.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-13T15:40:30.789Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="EXGFetlwOKKWavsRbwBS" version="14.6.12" type="github" pages="2">
   <diagram id="0KDnX90qYyFy4eXE8r0O" name="Page-1">
-    <mxGraphModel dx="2161" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="992" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,62 +15,6 @@
         </mxCell>
         <mxCell id="2TuWQ2MRCflO3B66ABBu-53" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.user;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="400" y="71.53999999999996" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-410" y="1320" width="360" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry width="360" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-5" value="Comment" style="html=1;fillColor=none;strokeColor=none;fontSize=15;align=left;fontColor=#000000;whiteSpace=wrap;fontStyle=1" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="20" y="27.5" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-6" value="" style="shape=line;strokeColor=#596780;html=1;fontSize=14;align=left;" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="20" y="47.5" width="320" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-7" value="" style="shape=mxgraph.ios7.icons.user;fillColor=#ffffff;strokeColor=#253858;fontSize=14;align=left;" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="40" y="67.5" width="32" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-8" value="Alex" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap;fontStyle=1" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="80" y="67.5" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-9" value="Hello, I&#39;m Alex." style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="80" y="87.5" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-10" value="" style="shape=mxgraph.ios7.icons.user;fillColor=#ffffff;strokeColor=#253858;fontSize=14;align=left;" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="40" y="230" width="32" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-11" value="Add comment" style="rounded=1;arcSize=9;fillColor=#ffffff;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="80" y="230" width="260" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-12" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.cross2;dx=0;strokeColor=#42526E;fillColor=#42526E" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-11">
-          <mxGeometry x="1" y="0.5" width="14" height="14" relative="1" as="geometry">
-            <mxPoint x="-28" y="-7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-13" value="" style="shape=mxgraph.ios7.icons.user;fillColor=#ffffff;strokeColor=#253858;fontSize=14;align=left;" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="40" y="117.5" width="32" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-14" value="Bill" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap;fontStyle=1" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="80" y="117.5" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-15" value="Good day!" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="80" y="137.5" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-16" value="" style="shape=line;strokeColor=#596780;html=1;fontSize=14;align=left;" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="20" y="210" width="320" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-17" value="" style="shape=mxgraph.ios7.icons.user;fillColor=#ffffff;strokeColor=#253858;fontSize=14;align=left;" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="40" y="170" width="32" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-18" value="Hacker" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap;fontStyle=1" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="80" y="170" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-19" value="Hi!" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap" vertex="1" parent="MgsbawNZsDIdCQi2bN0P-3">
-          <mxGeometry x="80" y="190" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MgsbawNZsDIdCQi2bN0P-21" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; line-height: 18px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;ul&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe&quot;&gt;class&lt;/span&gt;=&lt;span style=&quot;color: #ce9178&quot;&gt;&quot;Comments&quot;&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #808080&quot;&gt;&amp;nbsp; &amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;li&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #808080&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;h3&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;Alex&lt;span style=&quot;color: #808080&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;h3&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #808080&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;p&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;Hello.&lt;span style=&quot;color: #808080&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;p&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #808080&quot;&gt;&amp;nbsp; &amp;lt;/&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;li&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #808080&quot;&gt;&amp;nbsp; &amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;li&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #808080&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;h3&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;Bill&lt;span style=&quot;color: #808080&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;h3&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #808080&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;p&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;Good day!&lt;span style=&quot;color: #808080&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;p&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #808080&quot;&gt;&amp;nbsp; &amp;lt;/&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;li&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;ul&lt;/span&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #808080&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;input&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe&quot;&gt;type&lt;/span&gt;=&lt;span style=&quot;color: #ce9178&quot;&gt;&quot;text&quot;&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe&quot;&gt;placeholder&lt;/span&gt;=&lt;span style=&quot;color: #ce9178&quot;&gt;&quot;Add comment&quot;&lt;/span&gt; &lt;span style=&quot;color: #808080&quot;&gt;/&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;rounded=0;shadow=0;sketch=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="910" width="360" height="220" as="geometry" />
         </mxCell>
         <mxCell id="MgsbawNZsDIdCQi2bN0P-58" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="490" y="280" width="430" height="300" as="geometry" />
@@ -305,7 +249,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="1NgL8DdihWgE-TYsmUa2">
-    <mxGraphModel dx="1417" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1653" dy="1917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="XM69oG-XNZdDQfUdF-6k-0" />
         <mxCell id="XM69oG-XNZdDQfUdF-6k-1" parent="XM69oG-XNZdDQfUdF-6k-0" />
