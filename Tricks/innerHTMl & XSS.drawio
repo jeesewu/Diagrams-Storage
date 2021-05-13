@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T03:16:22.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.12" etag="Ssoo9sXncqPdryeItQFp" type="github"><diagram id="0KDnX90qYyFy4eXE8r0O">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-13T03:23:36.210Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="pVZ2claKVHXQgjXQ9pRe" version="14.6.12" type="github">
+  <diagram id="0KDnX90qYyFy4eXE8r0O" name="Page-1">
+    <mxGraphModel dx="1417" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="90" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-18" value="Comment" style="html=1;fillColor=none;strokeColor=none;fontSize=15;align=left;fontColor=#000000;whiteSpace=wrap;fontStyle=1" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry x="20" y="27.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-19" value="" style="shape=line;strokeColor=#596780;html=1;fontSize=14;align=left;" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry x="20" y="47.5" width="320" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-20" value="" style="shape=mxgraph.ios7.icons.user;fillColor=#ffffff;strokeColor=#253858;fontSize=14;align=left;" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry x="40" y="67.5" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-21" value="Alex" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap;fontStyle=1" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry x="80" y="67.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-23" value="Hello, I&#39;m Alex." style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry x="80" y="87.5" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-26" value="" style="shape=mxgraph.ios7.icons.user;fillColor=#ffffff;strokeColor=#253858;fontSize=14;align=left;" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry x="40" y="230" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-27" value="Add comment" style="rounded=1;arcSize=9;fillColor=#ffffff;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry x="80" y="230" width="260" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-28" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.cross2;dx=0;strokeColor=#42526E;fillColor=#42526E" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-27">
+          <mxGeometry x="1" y="0.5" width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="-28" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-36" value="" style="shape=mxgraph.ios7.icons.user;fillColor=#ffffff;strokeColor=#253858;fontSize=14;align=left;" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry x="40" y="117.5" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-37" value="Bill" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap;fontStyle=1" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry x="80" y="117.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-38" value="Good day!" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry x="80" y="137.5" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2TuWQ2MRCflO3B66ABBu-39" value="" style="shape=line;strokeColor=#596780;html=1;fontSize=14;align=left;" vertex="1" parent="2TuWQ2MRCflO3B66ABBu-42">
+          <mxGeometry x="20" y="210" width="320" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
