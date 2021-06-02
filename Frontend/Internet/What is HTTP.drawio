@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T16:09:57.787Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="g9hvXpFXkfSilT58tDcO" version="14.7.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-02T16:13:42.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="S-P7LkDinUTrksfpkJDr" version="14.7.3" type="github" pages="7">
   <diagram id="UkxiJdt2NRUedwLi81Pg" name="OSI Model">
-    <mxGraphModel dx="485" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="TCP/IP Model" id="tw4IERQANpylSQjljVNS">
-    <mxGraphModel dx="1177" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2326" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ZIKiGdOt5rATfsqMbnO5-0" />
         <mxCell id="ZIKiGdOt5rATfsqMbnO5-1" parent="ZIKiGdOt5rATfsqMbnO5-0" />
