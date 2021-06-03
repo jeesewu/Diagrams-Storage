@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T09:45:29.956Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="qm0pWhKvzPtd-4oW29_9" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T09:47:55.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="AUvRF-WQPbNN2Ve2rnCw" version="14.7.3" type="github">
   <diagram id="TnzOCbUmsDuyawYErTtF" name="Float">
-    <mxGraphModel dx="1792" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,11 +22,14 @@
         <mxCell id="5B8dg7GteTT1fX1XYOR_-7" value="&lt;strong style=&quot;margin: 0px ; padding: 0px ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="930" y="545" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5B8dg7GteTT1fX1XYOR_-8" value="float: left" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="950" y="725" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="5B8dg7GteTT1fX1XYOR_-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.7;dx=20.81;notch=0;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="605" width="71.43" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5B8dg7GteTT1fX1XYOR_-11" value="float: left" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="928" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5B8dg7GteTT1fX1XYOR_-12" value="float: none" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="550" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
