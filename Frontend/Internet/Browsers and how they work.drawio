@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T02:40:23.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4Gb3k02o8PV4w5NHrKId" version="14.7.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-03T02:44:24.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="xRYkh2EADatkNllSRIv8" version="14.7.3" type="github" pages="4">
   <diagram id="HKxXz9bauEUlZJJoTAZd" name="Browser components">
     <mxGraphModel dx="1710" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Main flow examples" id="6XSgFTsjrQsB31lESGck">
-    <mxGraphModel dx="1437" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3593" dy="4686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0adc8UzlNy12XDlXNp98-0" />
         <mxCell id="0adc8UzlNy12XDlXNp98-1" parent="0adc8UzlNy12XDlXNp98-0" />
@@ -190,14 +190,14 @@
         <mxCell id="0adc8UzlNy12XDlXNp98-25" value="Style Rules" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0adc8UzlNy12XDlXNp98-1">
           <mxGeometry x="444" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0adc8UzlNy12XDlXNp98-37" value="WebKit main flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="0adc8UzlNy12XDlXNp98-1">
-          <mxGeometry x="499" y="650" width="170" height="30" as="geometry" />
+        <mxCell id="0adc8UzlNy12XDlXNp98-37" value="WebKit main flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="0adc8UzlNy12XDlXNp98-1">
+          <mxGeometry x="494" y="650" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="QZRmn5FMbSwxHnj5Mjjn" name="DOM">
-    <mxGraphModel dx="1710" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1006" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="otFUvJOat3Y34_2pQ8si-0" />
         <mxCell id="otFUvJOat3Y34_2pQ8si-1" parent="otFUvJOat3Y34_2pQ8si-0" />
