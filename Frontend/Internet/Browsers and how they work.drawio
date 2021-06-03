@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T02:23:41.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="J3x6vOTaoJ_3-LcKkyZA" version="14.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-03T02:24:05.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ZVsL4VZqGWE4U0OGdZCl" version="14.7.3" type="github" pages="3">
   <diagram id="HKxXz9bauEUlZJJoTAZd" name="Browser components">
     <mxGraphModel dx="1116" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -98,8 +98,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="QZRmn5FMbSwxHnj5Mjjn" name="Page-3">
-    <mxGraphModel dx="2443" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="QZRmn5FMbSwxHnj5Mjjn" name="DOM">
+    <mxGraphModel dx="1710" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="otFUvJOat3Y34_2pQ8si-0" />
         <mxCell id="otFUvJOat3Y34_2pQ8si-1" parent="otFUvJOat3Y34_2pQ8si-0" />
